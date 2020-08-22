@@ -1,0 +1,65 @@
+#banner{
+    background: url(assets/img/1.jpg);
+    height: 600px;
+    color: #fff;
+    justify-content: center;
+}
+#img_gallary img{
+    margin: 15px 0;
+    height: 185px;
+    width: 100%;
+}
+#img_gallary .imgBig img{
+    width: 100%;
+    height: 400px;
+}
+#card{
+    background: rgb(248, 246, 246);
+}
+#content img{
+    width: 100%;
+    height: 500px;
+    margin: 10px 0; 
+}
+#wrapper{
+    background:url(assets/img/11.jpg);
+    height: 600px;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* text-decoration: column; */
+}
+#map p{
+    font-size:  20px;
+}
+#map p i {
+    margin: 10px;
+    margin-top: 20px;
+    
+}
+.media i{
+    margin: 5px 10px;
+    padding: 10px;
+    font-size: 30px;
+    background: #ddd;
+    border-radius: 50%;
+
+}
+form{
+    width: 400px;
+    height: 50px;
+    margin: 10px 10px 10px 0px;
+    display: flex;
+}
+form input{
+    border: 1px solid #ddd;
+    padding-left: 10px;
+    height: 100%;
+    width: 70%;
+}
+form button{
+    border: none;
+    height: 100%;
+    width: 30%;
+}
